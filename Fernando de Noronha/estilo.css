@@ -1,0 +1,154 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ADC0D9;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    
+    
+}
+.section1 {
+    text-align: center;
+    background-color: #E9CFB8;
+    padding: 20px;
+}
+.img {
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+     
+   
+}
+#titulo{
+    
+    margin-left: 300px;
+}
+
+
+.section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    
+}
+.imgsessão{
+    flex: 2;
+    margin-left: 20px;
+}
+.imagem {
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+    
+    
+}
+.textosessão{
+    flex: 4;
+    
+}
+footer {
+    background-color: #ADC0D9;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.social-media {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+#PPT {
+    text-align: center;
+}
+
+.PontoT {
+    margin-bottom: 40px;
+}
+
+.PontoT img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.contato ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contato ul li {
+    margin-bottom: 0.5rem;
+}
+
+.intro {
+    margin-bottom: 2rem;
+}
+
+.curiosidades {
+    margin-bottom: 2rem;
+}
+
+.curiosidades .curiosidade-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.curiosidades .curiosidade-item img {
+    max-width: 300px;
+    margin-right: 1rem;
+    border-radius: 8px;
+}
+
+.curiosidades .sobre {
+    max-width: 600px;
+}
+
+.curiosidades ul {
+    list-style: disc;
+    margin-left: 2rem;
+}
+
+.parag{
+    font-size: 200%;
+}
+
+
+
+
+
+
+
+
+
+
